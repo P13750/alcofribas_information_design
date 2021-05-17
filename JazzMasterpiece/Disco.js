@@ -48,7 +48,7 @@ this.controlla_artista = function (a_){
 };
 
 this.mouseOver = function (){
-  if ((mouseX > this.pos_x) && (mouseX < this.pos_x + spaziatura) && (mouseY > this.pos_y) && (mouseY < this.pos_y + spaziatura)) {
+  if ((mouseX > this.pos_x) && (mouseX < this.pos_x + spaziatura * 0.9 * _scala) && (mouseY > this.pos_y) && (mouseY < this.pos_y + spaziatura * 0.9 * _scala)) {
       return (true);
     } else {
       return (false);
