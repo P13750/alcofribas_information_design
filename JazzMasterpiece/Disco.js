@@ -28,7 +28,6 @@ this.accendi = function (){
   stroke(255,255,0);
   strokeWeight(5);
   rect(this.pos_x, this.pos_y, spaziatura * 0.9 * _scala, spaziatura * 0.9 * _scala);
-  //line(this.pos_x, this.pos_y+spaziatura*0.95,this.pos_x+spaziatura*0.9, this.pos_y+spaziatura*0.95);
 };
 
 this.spegni = function (){
@@ -48,7 +47,7 @@ this.controlla_artista = function (a_){
 };
 
 this.mouseOver = function (){
-  if ((mouseX > this.pos_x) && (mouseX < this.pos_x + spaziatura * 0.9 * _scala) && (mouseY > this.pos_y) && (mouseY < this.pos_y + spaziatura * 0.9 * _scala)) {
+  if ((mouseX > this.pos_x) && (mouseX < this.pos_x + spaziatura * 0.8 * _scala) && (mouseY > this.pos_y) && (mouseY < this.pos_y + spaziatura * 0.8 * _scala)) {
       return (true);
     } else {
       return (false);
