@@ -10,7 +10,7 @@ var M = 0;
 
 function preload(){
   album   = loadTable('data/album.txt', 'tsv', 'header');
-  taglist = loadTable('data/tag.txt', 'tsv', 'header');
+  taglist = loadTable('data/tag.txt', 'tsv');
   matrix  = loadTable('data/matrix.txt', 'tsv', 'header');
 }
 
@@ -116,7 +116,7 @@ function draw() {
       }
 
       for(var j = 0; j < t.length; j++){
-        t[j].acceso = matrix.get(d[i].numero, j+2);
+        t[j].acceso = matrix.get(d[i].numero, j + 1);
       }
 
     }
