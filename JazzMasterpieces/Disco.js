@@ -1,5 +1,4 @@
-
-function Disco (x, y, l, a, t, score, path) {
+function Disco (x, y, l, a, t, score, path, p) {
   this.pos_x = int(x);
   this.pos_y = int(y);
   this.label = l;
@@ -8,6 +7,7 @@ function Disco (x, y, l, a, t, score, path) {
   this.rym = score;
   this.cover = loadImage(path);
   this.acceso = 1;
+  this.numero = p;
 
 
 this.display_small = function () {
@@ -18,10 +18,6 @@ this.display_big = function ( x,  y){
   image(this.cover,x,y,height * 0.15,height * 0.15);
 };
 
-this.display_score = function ( x,  y, s_){
-  s_ = map(s_, 250, 500, 0, 50);
-  image(this.cover,x,y,s_,s_);
-};
 
 this.accendi = function (){
   noFill();

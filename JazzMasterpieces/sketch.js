@@ -1,11 +1,17 @@
 var d = [];
+var t = [];
 var album;
+var taglist;
+var matrix;
 var spaziatura;
 var record;
 var _scala = 0.9;
+var M = 0;
 
 function preload(){
-  album = loadTable('data/album.txt', 'tsv', 'header');
+  album   = loadTable('data/album.txt', 'tsv', 'header');
+  taglist = loadTable('data/tag.txt', 'tsv', 'header');
+  matrix  = loadTable('data/matrix.txt', 'tsv', 'header');
 }
 
 function setup() {
@@ -21,22 +27,35 @@ function setup() {
                       album.get(i,3),
                       album.get(i,4),
                       album.getNum(i,5),
-                      "data/"+album.get(i,6)
+                      "data/"+album.get(i,6),
+                      album.get(i,7)
                       );
   }
+  
+  t = [];
+  for(var i=0;i < taglist.getRowCount(); i++){
+     t[i] = new Tag(taglist.get(i,0), taglist.get(i,1));    
+  }
+
 }
 
 
 function draw() {
+
+  M = 0;
 
   background(204);
   fill(0);
   
   strokeWeight(1);
   stroke(255);
-  textAlign(LEFT);
+  textAlign(LEFT, BOTTOM);
   textSize(32);
   text("Jazz Masterpieces", width * 0.03, height * 0.05);
+
+  textAlign(RIGHT, BOTTOM);
+  textSize(12);
+  text("Based on RateYourMusic.com", width * 0.94, height * 0.05);
 
   for(var anno = 1954; anno < 1980; anno++ ){
     var x = anno - 1954;
@@ -53,20 +72,40 @@ function draw() {
       d[i].display_small();
   }
 
+
+  //POSIZIONA I TAG
+  var t_x = width * 0.33 - 110;
+  var t_y = height * 0.85;
+
+  for(var i=0;i < t.length; i++){
+    t_x = t_x + 110;
+    if (t_x > (width * 0.95)){
+      t_x = width * 0.33;
+      t_y = t_y + 40;
+    }
+    t[i].posizione(t_x, t_y);
+  }
+
+
+
+// GIRO SUGLI ALBUM
   for(var i = 0; i < d.length; i++){
 
     if (d[i].mouseOver()) {
+
+      M = 1;
+
       var k = 0; 
       d[i].display_big(10,height * 0.825);
       fill(0);
       textAlign(LEFT);
       let A = d[i].artista;
-      text(A           ,              30 + height * 0.15,  height*0.90);
+      text(A,                         30 + height * 0.15,  height*0.90);
       text(d[i].titolo.toUpperCase(), 30 + height * 0.15,  height*0.93);
       text(d[i].label,                30 + height * 0.15,  height*0.95);
       
       for (var s = 0; s < d.length; s++){
-        print(s);
+        //print(s);
         d[s].controlla_artista(A);
         if(d[s].ACCESO == 1){
           d[s].accendi();
@@ -75,7 +114,54 @@ function draw() {
           d[s].spegni();
         }
       }
+
+      for(var j = 0; j < t.length; j++){
+        t[j].acceso = matrix.get(d[i].numero, j+2);
+      }
+
     }
 
+  }
+
+
+
+//print(M);
+
+// GIRO SUI TAG
+
+for(var i=0;i < t.length; i++){
+  
+  if (M == 0){
+    if(t[i].mouseOver()){
+      t[i].acceso = 1;
+    } else {
+      t[i].acceso = 0;
+    }
+  }
+
+  t[i].display();
+
+}
+
+
+
+for(var i=0;i < t.length; i++){
+  if(t[i].mouseOver()){
+
+        for(var j = 0; j < d.length; j++){
+            
+          d[j].ACCESO = matrix.get(d[j].numero, t[i].numero);
+
+            if(d[j].ACCESO == 1){
+              d[j].accendi();
+            } 
+            if(d[j].ACCESO == 0){ 
+              d[j].spegni();
+        }
+
+      }
+
+     
+   }
   }
 }
