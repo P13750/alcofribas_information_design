@@ -11,7 +11,7 @@ function Tag (_t, _n) {
     if (this.acceso == 1){
         fill(255,153,204);
     }else{
-        fill(110,110,110);
+        fill(192,192,192);
     }
     strokeWeight(1);
     stroke(255);
