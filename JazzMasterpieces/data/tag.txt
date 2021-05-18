@@ -1,0 +1,18 @@
+Avant-Garde Jazz	0
+Big Band	1
+Cool Jazz	2
+Free Jazz	3
+Hard Bop	4
+Jazz Fusion	5
+Jazz-Rock	6
+Modal Jazz	7
+Post-Bop	8
+Soul	9
+Soul Jazz	10
+Spiritual Jazz	11
+Third Stream	12
+Bossa nova	13
+Canterbury Scene	14
+Christmas Music	15
+ECM Style Jazz	16
+Vocal Jazz	17
