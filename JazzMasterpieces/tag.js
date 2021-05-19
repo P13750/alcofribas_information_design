@@ -7,7 +7,7 @@ function Tag (_t, _n) {
   
   this.display = function () {
     textAlign(LEFT, CENTER);
-    textSize(12);
+    //textSize(12);
     if (this.acceso == 1){
         fill(255,153,204);
     }else{
@@ -15,9 +15,10 @@ function Tag (_t, _n) {
     }
     strokeWeight(1);
     stroke(255);
-    rect(this.pos_x, this.pos_y, 100, 30);
+    rect(this.pos_x-5, this.pos_y, 105, 30);
     fill(0);
     noStroke();
+    textSize(floor(height/75));
     text(this.label, this.pos_x, this.pos_y, 100, 30);
   };
 

@@ -50,19 +50,19 @@ function draw() {
   strokeWeight(1);
   stroke(255);
   textAlign(LEFT, BOTTOM);
-  textSize(32);
+  textSize(floor(height/32));
   text("Jazz Masterpieces", width * 0.03, height * 0.05);
 
   textAlign(RIGHT, BOTTOM);
-  textSize(12);
-  text("Based on RateYourMusic.com", width * 0.94, height * 0.05);
+  textSize(floor(height/75));
+  text("Based on RateYourMusic.com charts", width * 0.94, height * 0.05);
 
   for(var anno = 1954; anno < 1980; anno++ ){
     var x = anno - 1954;
     strokeWeight(1);
     stroke(255);
     textAlign(LEFT);
-    textSize(14);
+    textSize(floor(height/64));
     text(anno, width * 0.03 + x*spaziatura ,height * 0.09);
     strokeWeight(1);
     stroke(255);
@@ -99,6 +99,7 @@ function draw() {
       d[i].display_big(10,height * 0.825);
       fill(0);
       textAlign(LEFT);
+      textSize(floor(height/64));
       let A = d[i].artista;
       text(A,                         30 + height * 0.15,  height*0.90);
       text(d[i].titolo.toUpperCase(), 30 + height * 0.15,  height*0.93);
@@ -153,7 +154,7 @@ for(var i=0;i < t.length; i++){
           d[j].ACCESO = matrix.get(d[j].numero, t[i].numero);
 
             if(d[j].ACCESO == 1){
-              d[j].accendi();
+              d[j].accendirosa();
             } 
             if(d[j].ACCESO == 0){ 
               d[j].spegni();

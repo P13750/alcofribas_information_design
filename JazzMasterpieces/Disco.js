@@ -22,7 +22,14 @@ this.display_big = function ( x,  y){
 this.accendi = function (){
   noFill();
   stroke(255,255,0);
-  strokeWeight(5);
+  strokeWeight(3);
+  rect(this.pos_x, this.pos_y, spaziatura * 0.9 * _scala, spaziatura * 0.9 * _scala);
+};
+
+this.accendirosa = function (){
+  noFill();
+  stroke(255,102,178);
+  strokeWeight(3);
   rect(this.pos_x, this.pos_y, spaziatura * 0.9 * _scala, spaziatura * 0.9 * _scala);
 };
 
