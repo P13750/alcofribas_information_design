@@ -18,6 +18,13 @@ this.display_big = function ( x,  y){
   image(this.cover,x,y,height * 0.15,height * 0.15);
 };
 
+this.display_mid = function ( x,  y){
+  image(this.cover,x,y,height * 0.10,height * 0.10);
+  noFill();
+  stroke(255,255,0);
+  strokeWeight(3);
+  rect(x, y, height * 0.10,height * 0.10);
+};
 
 this.accendi = function (){
   noFill();

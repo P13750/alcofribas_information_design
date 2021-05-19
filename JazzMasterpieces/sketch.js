@@ -43,6 +43,7 @@ function setup() {
 function draw() {
 
   M = 0;
+  var h = ((height * 0.10) - (spaziatura * 0.9)) * 0.5;
 
   background(204);
   fill(0);
@@ -97,6 +98,7 @@ function draw() {
 
       var k = 0; 
       d[i].display_big(10,height * 0.825);
+
       fill(0);
       textAlign(LEFT);
       textSize(floor(height/64));
@@ -115,6 +117,9 @@ function draw() {
           d[s].spegni();
         }
       }
+
+
+      d[i].display_mid(d[i].pos_x - h, d[i].pos_y - h);
 
       for(var j = 0; j < t.length; j++){
         t[j].acceso = matrix.get(d[i].numero, j + 1);
