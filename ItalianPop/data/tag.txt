@@ -1,0 +1,22 @@
+Canzone d'autore	0
+Film Score	1
+Progressive Pop	2
+Symphonic Prog	3
+Progressive Rock	4
+Avant-Prog	5
+Cabaret	6
+Singer/Songwriter	7
+Pop	8
+Jazz-Rock	9
+Pop Rock	10
+Progressive Folk	11
+Italian Folk Music	12
+Baroque Pop	13
+Psychedelic Rock	14
+Library Music	15
+Contemporary Folk	16
+Jazz Fusion	17
+Hard Rock	18
+Italo Pop	19
+Lounge	20
+Easy Listening	21

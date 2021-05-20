@@ -1,0 +1,315 @@
+X	Y	LABEL	ARTISTA	DISCO	RYM	COVERPATH	PROGRESSIVO
+21	0	December 1973	Fabrizio De André	Storia di un impiegato	100	storia.jpg	0
+15	0	October 1971	Fabrizio De André	Non al denaro non all'amore né al cielo	100	denaro.jpg	1
+9	0	1969	Ennio Morricone	Vergogna schifosi	100	schifosi.jpg	2
+24	0	December 1974	Lucio Battisti	Anima latina	100	latina.jpg	3
+18	0	January 1972	Premiata Forneria Marconi	Storia di un minuto	100	minuto.jpg	4
+12	0	November 1970	Fabrizio De André	La buona novella	100	novella.jpg	5
+22	0	1973	Museo Rosenbach	Zarathustra	100	zara.jpg	6
+19	0	November 1972	Premiata Forneria Marconi	Per un amico	100	amico.jpg	7
+20	0	December 1972	Banco del Mutuo Soccorso	Darwin!	100	darwin.jpg	8
+33	0	1977	Goblin	Suspiria	100	suspiria.jpg	9
+6	0	September 1968	Fabrizio De André	Tutti morimmo a stento	100	morimmo.jpg	10
+18	1	May 1972	Banco del Mutuo Soccorso	Banco del Mutuo Soccorso	100	bms.jpg	11
+25	0	January 1974	Quella Vecchia Locanda	Il tempo della gioia	100	gioia.jpg	12
+39	0	October 1979 Live	Fabrizio De André con PFM	In concerto: Arrangiamenti PFM	100	pfm.jpg	13
+23	0	December 1973	Banco del Mutuo Soccorso	Io sono nato libero	100	libero.jpg	14
+30	0	1976	Picchio dal Pozzo	Picchio dal Pozzo	100	picchio.jpg	15
+21	1	1973	Area	Arbeit macht frei	100	arbeit.jpg	16
+36	0	1978 Live	Giorgio Gaber	Polli di allevamento	100	polli.jpg	17
+31	0	1976 Live	Giorgio Gaber	Libertà obbligatoria	100	liberta.jpg	18
+22	1	1973	Le Orme	Felona e Sorona	100	felona.jpg	19
+27	0	1975 Live	Area	Are(A)zione	100	areazione.jpg	20
+26	0	1974	Biglietto per l'Inferno	Biglietto per l'Inferno	100	biglietto.jpg	21
+19	1	1972	Il Balletto di Bronzo	Ys	100	ys.jpg	22
+20	1	June 1972	Quella Vecchia Locanda	Quella Vecchia Locanda	100	locanda.jpg	23
+32	0	April 1976	Claudio Lolli	Ho visto anche degli zingari felici	100	zingari.jpg	24
+23	1	1973	Battiato	Sulle corde di Aries	100	aries.jpg	25
+28	0	1975	Area	Crac!	100	crac.jpg	26
+21	2	1973	Osanna	Palepoli	100	palepoli.jpg	27
+40	0	1979	Lucio Dalla	Lucio Dalla	100	dalla.jpg	28
+22	2	1973	Jumbo	Vietato ai minori di 18 anni?	100	minori.jpg	29
+29	0	1975	Maxophone	Maxophone	100	maxo.jpg	30
+13	0	1970	Léo Ferré	Amour anarchie - Ferré 70	100	ferre.jpg	31
+27	1	1975	Goblin	Profondo rosso	100	profondo.jpg	32
+34	0	June 1977	Locanda delle Fate	Forse le lucciole non si amano più	100	lucciole.jpg	33
+23	2	September 1973	Lucio Battisti	Il nostro caro angelo	100	caro.jpg	34
+21	3	1973	Alphataurus	Alphataurus	100	alpha.jpg	35
+16	0	1971	Piero Ciampi	Piero Ciampi	100	ciampi.jpg	36
+18	2	1972	Le Orme	Uomo di pezza	100	pezza.jpg	37
+24	1	March 1974	Premiata Forneria Marconi	L'isola di niente	100	isola.jpg	38
+30	1	January 1976	Celeste	Celeste	100	celeste.jpg	39
+31	1	1976	Compagnia il Cerchio, Roberto De Simone & Nuova Compagnia di Canto Popolare	La gatta Cenerentola	100	gatta.jpg	40
+41	0	1979	Pino Daniele	Pino Daniele	100	daniele.jpg	41
+25	1	10 April 1974	Arti & Mestieri	Tilt (Immagini per un orecchio)	100	tilt.jpg	42
+26	1	October 1974 Live	Premiata Forneria Marconi	Live in U.S.A.	100	usa.jpg	43
+22	3	1973	Metamorfosi	Inferno	100	inferno.jpg	44
+39	1	10 September 1979	Battiato	L'era del cinghiale bianco	100	cinghiale.jpg	45
+23	3	1973	Piero Ciampi	Io e te abbiamo perso la bussola	100	bussola.jpg	46
+21	4	1973	Campo Di Marte	Campo di Marte	100	marte.jpg	47
+14	0	15 December 1970	Lucio Battisti	Emozioni	100	emozioni.jpg	48
+17	0	January 1971	Piero Umiliani	5 bambole per la luna d'agosto	100	bambole.jpg	49
+28	1	1975	arti+mestieri	Giro di valzer per domani	100	valzer.jpg	50
+29	1	January 1975	Francesco De Gregori	Rimmel	100	rimmel.jpg	51
+35	0	September 1977	Lucio Dalla	Come è profondo il mare	100	mare.jpg	52
+22	4	October 1973	Premiata Forneria Marconi	Photos of Ghosts	100	ghosts.jpg	53
+24	2	1974	Sensations' Fix	Portable Madness	100	madness.jpg	54
+32	1	1976	Francesco Guccini	Via Paolo Fabbri 43	100	fabbri.jpg	55
+37	0	1978 Live	Mina	Mina Live (Registrato a "Bussoladomani")	100	mina.jpg	56
+23	4	1973	Semiramis	Dedicato a Frazz	100	frazz.jpg	57
+27	2	1975	Il Volo	Essere o Non Essere?	100	essere.jpg	58
+7	0	December 1968	Fabrizio De André	Volume 3	100	tre.jpg	59
+19	2	1972	Francesco Guccini	Radici	100	radici.jpg	60
+15	1	1971	Le Orme	Collage	100	collage.jpg	61
+25	2	June 1974	Premiata Forneria Marconi	The World Became the World	100	world.jpg	62
+28	2	1975	Napoli Centrale	Napoli Centrale	100	napoli.jpg	63
+20	2	1972 Live	Giorgio Gaber	Dialogo tra un impegnato e un non so	100	dialogo.jpg	64
+21	5	1973	New Trolls Atomic System	N.T. Atomic System	100	nt.jpg	65
+18	3	1972	Claudio Lolli	Aspettando Godot	100	godot.jpg	66
+8	0	1968	Piero Umiliani	Svezia, inferno e paradiso	100	svezia.jpg	67
+38	0	1978	Faust'o	Suicidio	100	suicidio.jpg	68
+29	2	1975	Apoteosi	Apoteosi	100	apoteosi.jpg	69
+40	1	1979	Enzo Carella	Barbara e altri Carella	100	barbara.jpg	70
+19	3	1972	Alan Sorrenti	Aria	100	aria.jpg	71
+20	3	1972	Battiato	Pollution	100	pollution.jpg	72
+18	4	1972	Procession	Frontiera	100	frontiera.jpg	73
+12	1	1970	Piero Piccioni	Colpo rovente	100	rovente.jpg	74
+22	5	1973	Cervello	Melos	100	melos.jpg	75
+30	2	1976	Goblin	Roller	100	roller.jpg	76
+36	1	2 May 1978	Fabrizio De André	Rimini	100	rimini.jpg	77
+37	1	1978	Skiantos	MONO tono	100	monotono.jpg	78
+23	5	1973	De De Lind	Io non so da dove vengo e non so dove mai andrò. Uomo è il nome che mi han dato.	100	dedelind.jpg	79
+26	2	1974	Alusa Fallax	Intorno alla mia cattiva educazione	100	educazione.jpg	80
+10	0	1969	Piero Piccioni	Amore mio, aiutami	100	aiutami.jpg	81
+33	1	1977	Claudio Lolli	Disoccupate le strade dai sogni	100	sogni.jpg	82
+38	1	1978	Eugenio Bennato / Carlo D'Angiò	Musicanova	100	nova.jpg	83
+21	6	October 1973	Il Rovescio della Medaglia	Contaminazione	100	contami.jpg	84
+36	2	1978	Ivan Graziani	Pigro	100	pigro.jpg	85
+31	2	1976	Area	Maledetti (Maudits)	100	maledetti.jpg	86
+13	1	September 1970	Chico Buarque & Ennio Morricone	Per un pugno di samba	100	samba.jpg	87
+24	3	1974	Area	Caution Radiation Area	100	caution.jpg	88
+34	1	1977	Angelo Branduardi	La pulce d'acqua	100	pulce.jpg	89
+19	4	1972	Osanna	Preludio, tema, variazioni, canzona	100	preludio.jpg	90
+25	3	1974	Le Orme	Contrappunti	100	contrappunti.jpg	91
+26	3	1974	Murple	Io sono Murple	100	murple.jpg	92
+32	2	1976	Corte dei Miracoli	Corte dei Miracoli	100	corte.jpg	93
+20	4	April 1972	Lucio Battisti	Umanamente uomo: il sogno	100	sogno.jpg	94
+27	3	1975	Etna	Etna	100	etna.jpg	95
+18	5	1972	Raccomandata Ricevuta Ritorno	Per... un mondo di cristallo	100	cristallo.jpg	96
+19	5	1972	Battiato	Fetus	100	fetus.jpg	97
+20	5	November 1972	Lucio Battisti	Il mio canto libero	100	canto.jpg	98
+22	6	1973	Nino Ferrer	Nino Ferrer & Leggs	100	leggs.jpg	99
+41	1	1979	Ann Steel	Ann Steel	100	steel.jpg	100
+0	0	May 1966	Piero Piccioni	The 10th Victim	100	victim.jpg	101
+35	1	1977	Pino Daniele	Terra mia	100	terra.jpg	102
+33	2	1977	Pierrot Lunaire	Gudrun	100	gudrun.jpg	103
+16	1	1971	Nino Ferrer	Métronomie	100	metro.jpg	104
+11	0	1969	Piero	Piero	100	piero.jpg	105
+24	4	1974	Nuova Compagnia di Canto Popolare	Li sarracini adorano lu sole	100	sole.jpg	106
+25	4	1974	Delirium	III - Viaggio negli Arcipelaghi del Tempo	100	tempo.jpg	107
+34	2	1977	Edoardo Bennato	Burattino senza fili	100	burattino.jpg	108
+26	4	1974 Live	Giorgio Gaber	Anche per oggi non si vola	100	anche.jpg	109
+37	2	1978	Goblin	Zombi	100	zombi.jpg	110
+30	3	October 1976	Banco del Mutuo Soccorso	Come in un'ultima cena	100	cena.jpg	111
+38	2	1978	Area	1978 gli dei se ne vanno, gli arrabbiati restano!	100	dei.jpg	112
+14	1	1970	Circus 2000	Circus 2000	100	circus.jpg	113
+18	6	1972	Il Paese dei balocchi	Il Paese dei Balocchi	100	paese.jpg	114
+9	1	1969	Piero Umiliani	La morte bussa due volte	100	morte.jpg	115
+17	1	1971	Osanna	L'uomo	100	uomo.jpg	116
+28	3	May 1975	Fabrizio De André	Vol. 8	100	otto.jpg	117
+19	6	1972	Reale Accademia di Musica	Reale Accademia di Musica	100	reale.jpg	118
+24	5	1974	Sensations' Fix	Fragments of Light	100	fragments.jpg	119
+25	5	1974	Pierrot Lunaire	Pierrot Lunaire	100	pierrot.jpg	120
+36	3	1978	Bella Band	Bella Band	100	bella.jpg	121
+31	3	1976	Angelo Branduardi	Alla fiera dell'est	100	fiera.jpg	122
+23	6	October 1973	Garybaldi	Astrolabio	100	astrolabio.jpg	123
+35	2	1977	Enzo Carella	Vocazione	100	vocazione.jpg	124
+26	5	1974	Opus Avantra & Donella Del Monaco	Opus Avantra	100	opus.jpg	125
+20	6	1972	Egisto Macchi	Città notte	100	citta.jpg	126
+3	0	May 1967	Fabrizio De André	Vol. 1°	100	uno.jpg	127
+32	3	1976	Luciano Basso	Voci	100	voci.jpg	128
+21	7	18 April 1973	Pholas Dactylus	Concerto delle menti	100	concerto.jpg	129
+22	7	1973	L' Uovo di Colombo	L'Uovo di Colombo	100	uovo.jpg	130
+29	3	1975	Cherry Five	Cherry Five	100	cherry.jpg	131
+37	3	1978	Mauro Pagani	Mauro Pagani	100	mauro.jpg	132
+39	2	1979	Ivan Graziani	Agnese dolce Agnese	100	agnese.jpg	133
+15	2	November 1971	I Giganti	Terra in bocca (Poesia di un delitto)	100	terra.jpg	134
+27	4	1975	Franco Falsini	Cold Nose (Naso freddo)	100	cold.jpg	135
+16	2	1971	New Trolls	Concerto grosso per i New Trolls	100	grosso.jpg	136
+28	4	March 1975	Enzo Jannacci	Quelli che...	100	quelli.jpg	137
+10	1	June 1969	Stelvio Cipriani	Femina ridens	100	femina.jpg	138
+18	7	1972	Jumbo	DNA	100	dna.jpg	139
+33	3	December 1977	Chrisma	Chinese Restaurant	100	chinese.jpg	140
+24	6	April 1974	Ibis	Sun Supreme	100	sun.jpg	141
+30	4	1976	Rino Gaetano	Mio fratello è figlio unico	100	fratello.jpg	142
+25	6	February 1974	Francesco De Gregori	Francesco De Gregori	100	francesco.jpg	143
+26	6	12 April 1974	Fabrizio De André	Canzoni	100	canzoni.jpg	144
+40	2	1979	Nino Ferrer	Blanat	100	blanat.jpg	145
+31	4	1976	Roberto Vecchioni	Elisir	100	elisir.jpg	146
+23	7	1973	Rocky's Filj	Storie di uomini e non	100	storie.jpg	147
+32	4	1976	Sensations' Fix	Finest Finger	100	finger.jpg	148
+21	8	1973	Latte e Miele	Papillon	100	papillon.jpg	149
+19	7	1972	J.E.T.	Fede, Speranza, Carità	100	fede.jpg	150
+20	7	1972	Garybaldi	Nuda	100	nuda.jpg	151
+18	8	1972	Capitolo 6	Frutti per Kagua	100	kagua.jpg	152
+1	0	1966	Nino Ferrer	Enregistrement public	100	public.jpg	153
+29	4	1975	Opus Avantra	Lord Cromwell Plays Suite for Seven Vices	100	lord.jpg	154
+19	8	1972	New Trolls	UT	100	ut.jpg	155
+38	3	May 1978	Banco	...di terra	100	diterra.jpg	156
+27	5	February 1975	Claudio Lolli	Canzoni di rabbia	100	rabbia.jpg	157
+28	5	March 1975	Banco	Banco	100	banco.jpg	158
+29	5	1975	PFM	Chocolate Kings	100	choco.jpg	159
+24	7	1974	Juri Camisasca	La finestra dentro	100	finestra.jpg	160
+27	6	1975	Perigeo	La Valle dei Templi	100	valle.jpg	161
+22	8	1973	Dedalus	Dedalus	100	dedalus.jpg	162
+28	6	1975 Live	Agorà	Live in Montreux	100	montreux.jpg	163
+30	5	April 1976	Francesco De Gregori	Bufalo Bill	100	bufalo.jpg	164
+41	2	1979 Live	Francesco Guccini & I Nomadi	Album concerto	100	albumcon.jpg	165
+20	8	1972	Circus 2000	An Escape From a Box (Fuga dall'involucro)	100	escape.jpg	166
+23	8	1973	Festa Mobile	Diario di viaggio della Festa mobile	100	viaggio.jpg	167
+25	7	1974	Il Volo	Il Volo	100	volo.jpg	168
+26	7	1974	Maria Monti	Il bestiario	100	bestiario.jpg	169
+17	2	1971	Blue Phantom	Distortions	100	disto.jpg	170
+24	8	March 1974	Piero Umiliani	Il corpo	100	corpo.jpg	171
+21	9	1973	Nuova Idea	Clowns	100	clown.jpg	172
+31	5	1976	Napoli Centrale	Mattanza	100	mattanza.jpg	173
+36	4	1978	Walter Rossi	Six Strings, Nine Lives	100	strings.jpg	174
+37	4	April 1978	Francesco De Gregori	De Gregori	100	degregori.jpg	175
+29	6	3 March 1975	I Pooh	Un po' del nostro tempo migliore	100	pooh.jpg	176
+39	3	1979	Chrisma	Hibernation	100	hiber.jpg	177
+22	9	1973	I Califfi	Fiore di metallo	100	fiore.jpg	178
+40	3	1979	Musicanova	Quanno turnammo a nascere	100	nascere.jpg	179
+41	3	1979	Salis	Dopo il buio la luce	100	buio.jpg	180
+23	9	April 1973	Francesco De Gregori	Alice non lo sa	100	alice.jpg	181
+25	8	1974	Alunni del Sole	Jenny e la bambola	100	jenny.jpg	182
+34	3	1977	Canzoniere del Lazio	Miradas	100	miradas.jpg	183
+26	8	1974	Tony Esposito	Rosso Napoletano	100	rosso.jpg	184
+27	7	October 1975	Antonello Venditti	Lilly	100	lilly.jpg	185
+39	4	6 June 1979	Orchestra Njervudarov	Con le orecchie di Eros	100	eros.jpg	186
+24	9	1974	Saint Just	La casa del lago	100	lago.jpg	187
+25	9	1974	Alessandro Alessandroni	Prisma sonoro	100	prisma.jpg	188
+15	3	1971	Alessandro Alessandroni	Alessandro Alessandroni	100	alessandroni.jpg	189
+18	9	1972	Delirium	Lo scemo e il villaggio	100	scemo.jpg	190
+19	9	1972	I Teoremi	I Teoremi	100	teoremi.jpg	191
+32	5	February 1976	Lucio Battisti	Lucio Battisti, la batteria, il contrabbasso, eccetera	100	basso.jpg	192
+38	4	1978	Goblin	Il fantastico viaggio del "bagarozzo" Mark	100	mark.jpg	193
+16	3	1971	Claudio Rocchi	Volo magico n. 1	100	magico.jpg	194
+30	6	1976	Walter Rossi	Walter Rossi	100	walter.jpg	195
+40	4	1979	Alberto Fortis	Alberto Fortis	100	fortis.jpg	196
+17	3	1971	Panna Fredda	Uno	100	panna.jpg	197
+41	4	June 1979	Paolo Conte	Un gelato al limon	100	limone.jpg	198
+35	3	1977	Napoli Centrale	Qualcosa ca nu 'mmore	100	qualcosa.jpg	199
+33	4	1977	Stormy Six	L'apprendista	100	apprendista.jpg	200
+28	7	September 1975	Angelo Branduardi	La Luna	100	luna.jpg	201
+31	6	1976	Edoardo Bennato	La torre di Babele	100	babele.jpg	202
+20	9	1972	Milva	Dedicato a Milva da Ennio Morricone	100	milva.jpg	203
+18	10	1972	Flea	Topi o uomini	100	topi.jpg	204
+19	10	June 1972	Analogy	Analogy	100	analogy.jpg	205
+21	10	1973	Saint Just	Saint Just	100	just.jpg	206
+15	4	1971	Planetarium	Infinity	100	infinity.jpg	207
+32	6	1976	Latte e Miele	Aquile e scoiattoli	100	aquile.jpg	208
+26	9	13 March 1974	Edoardo Bennato	I buoni e i cattivi	100	buoni.jpg	209
+22	10	1973	Nico, Gianni, Frank, Maurizio	Canti d'innocenza, canti d'esperienza	100	canti.jpg	210
+23	10	1973	Dalton	Riflessioni: idea d'infinito	100	riflessioni.jpg	211
+24	10	1974	Angelo Branduardi	Angelo Branduardi	100	branduardi.jpg	212
+30	7	1976	Agorà	2	100	due.jpg	213
+25	10	April 1974	Gabriella Ferri	Remedios	100	remedios.jpg	214
+2	0	1966	Luigi Tenco	Tenco	100	tenco.jpg	215
+12	2	1970	Il Balletto di Bronzo	Sirio 2222	100	sirio.jpg	216
+31	7	1976	Lucio Dalla	Automobili	100	automobili.jpg	217
+34	4	1977	Riccardo Zappa	Celestion	100	celestion.jpg	218
+39	5	7 September 1979	Skiantos	Kinotto	100	kinotto.jpg	219
+40	5	1979	Enzo Jannacci	Foto ricordo	100	foto.jpg	220
+41	5	1979	Malvasia	Malvasia	100	malvasia.jpg	221
+13	2	1970	The Group	The Feed-Back	100	feed.jpg	222
+20	10	September 1972	Formula 3	Sognando e risognando	100	sognando.jpg	223
+35	4	1977	Ivan Graziani	I lupi	100	lupi.jpg	224
+21	11	1973	Rustichelli e Bordini	Opera Prima	100	opera.jpg	225
+29	7	7 February 1975	Edoardo Bennato	Io che non sono l'imperatore	100	imperatore.jpg	226
+16	4	1971	The Trip	Caronte	100	caronte.jpg	227
+17	4	1971	Rosa Balistreri	Amore, tu lo sai, la vita è amara	100	amara.jpg	228
+33	5	1977	Roberto Picchi	Raggi di sole	100	raggi.jpg	229
+39	6	1979	Le Orme	Florian	100	florian.jpg	230
+14	2	1970	Sandro Brugnolini	Overground	100	overground.jpg	231
+26	10	1974	Aktuala	La terra	100	aktuala.jpg	232
+15	5	1971	The Underground Set	War in the Night Before	100	war.jpg	233
+32	7	1976	Roberto Colombo	Sfogatevi bestie	100	bestie.jpg	234
+22	11	1973	Duello Madre	Duello Madre	100	duello.jpg	235
+34	5	1977	Venegoni & Co.	Rumore rosso	100	rumore.jpg	236
+4	0	1967	Nino Ferrer	Nino Ferrer	100	nino.jpg	237
+40	6	1979	Genfuoco	Dentro l'invisible	100	invisibile.jpg	238
+27	8	1975	Lucio Dalla	Anidride solforosa	100	anidride.jpg	239
+18	11	1972	Armando Piazza	Suàn	100	suan.jpg	240
+36	5	1978	Zauber	Zauber	100	zauber.jpg	241
+23	11	1973	Blocco Mentale	Πόα (Poa)	100	poa.jpg	242
+24	11	1974	E. A. Poe	Generazioni (Storia di sempre)	100	generazioni.jpg	243
+21	12	March 1973	Claudio Lolli	Un uomo in crisi. Canzoni di morte, canzoni di vita	100	crisi.jpg	244
+16	5	November 1971	Delirium	Dolce acqua	100	dolce.jpg	245
+19	11	1972	Gruppo D'alternativa	Ipotesi	100	ipotesi.jpg	246
+41	6	1979	Luciano Pavarotti	O Sole Mio: Favorite Neapolitan Songs	100	solemio.jpg	247
+39	7	29 May 1979	Loredana Bertè	Bandabertè	100	berte.jpg	248
+17	5	1971	Il Rovescio della Medaglia	La Bibbia	100	bibbia.jpg	249
+22	12	1973	Mauro Pelosi	Al mercato degli uomini piccoli	100	mercato.jpg	250
+40	7	1979	Carnascialia / Pasquale Minieri / Giorgio Vivaldi	Carnascialia	100	carna.jpg	251
+20	11	1972	Osage Tribe	Arrow Head	100	arrow.jpg	252
+30	8	1976	Canzoniere del Lazio	Spirito bono	100	bono.jpg	253
+25	11	1974	Samadhi	Samadhi	100	sana.jpg	254
+41	7	1979	Adriano Celentano	Soli	100	soli.jpg	255
+18	12	1972	The Trip	Atlantide	100	atlantide.jpg	256
+28	8	January 1975	Libra	Musica e parole	100	libra.jpg	257
+31	8	1976	Il Baricentro	Sconcerto	100	sconcerto.jpg	258
+23	12	June 1973	Acqua Fragile	Acqua Fragile	100	fragile.jpg	259
+26	11	1974	Hero	Hero	100	hero.jpg	260
+24	12	1974	Canzoniere del Lazio	Lassa sta' la me creatura	100	lassa.jpg	261
+35	5	1977	Eugenio Finardi	Diesel	100	diesel.jpg	262
+32	8	1976	Le Orme	Verità nascoste	100	verita.jpg	263
+39	8	1979	Banco	Canto di primavera	100	primavera.jpg	264
+25	12	1974	Rino Gaetano	Ingresso libero	100	ingresso.jpg	265
+30	9	1976	Errata Corrige	Siegfried, il drago e altre storie	100	sieg.jpg	266
+37	5	8 March 1978	Antonello Venditti	Sotto il segno dei pesci	100	pesci.jpg	267
+12	3	1970 Live	Giorgio Gaber	Il signor G	100	signor.jpg	268
+15	6	January 1971	The Braen's Machine	Underground	100	under.jpg	269
+19	12	1972	Mack Porter	Peace on You	100	peace.jpg	270
+26	12	1974	Francesco Guccini	Stanze di vita quotidiana	100	stanze.jpg	271
+21	13	1973	Ricordi d'Infanzia	Io uomo	100	iouomo.jpg	272
+22	13	November 1973	Nada	Ho scoperto che esisto anch'io	100	esisto.jpg	273
+31	9	1976	Eugenio Finardi	Sugo	100	sugo.jpg	274
+16	6	1971	M. Zalla	Paesaggi	100	paesaggi.jpg	275
+24	13	1974	Bambibanda e Melodie	Bambibanda e Melodie	100	bambibanda.jpg	276
+20	12	1972	La Seconda Genesi	Tutto deve finire	100	finire.jpg	277
+11	1	5 March 1969	Lucio Battisti	Lucio Battisti	100	battisti.jpg	278
+18	13	May 1972	Ennio Morricone	Anche se volessi lavorare, che faccio?	100	faccio.jpg	279
+23	13	1973	Aktuala	Aktuala	100	akt.jpg	280
+17	6	December 1971	Giorgio Gaber	I borghesi	100	borghesi.jpg	281
+19	13	1972	Claudio Rocchi	La norma del cielo (Volo magico n.2)	100	norma.jpg	282
+33	6	1977	Roberto Vecchioni	Samarcanda	100	samarcanda.jpg	283
+29	8	1975	Mina	Minacantalucio	100	minac.jpg	284
+32	9	1976	Esagono	Vicolo	100	vicolo.jpg	285
+25	13	1974	Procession	Fiaba	100	fiaba.jpg	286
+20	13	1972	Jacula	Tardo Pede in Magiam Versus	100	tardo.jpg	287
+18	14	1972	Giorgio	Son of My Father	100	son.jpg	288
+27	9	1975	Nino Ferrer	Suite en œuf	100	suite.jpg	289
+30	10	1976	Pangea	Invasori	100	invasori.jpg	290
+38	5	1978	Francesco Guccini	Amerigo	100	amerigo.jpg	291
+19	14	1972	New Trolls	Searching for a Land	100	search.jpg	292
+34	6	1977	Emilio Locurcio	L'eliogabalo	100	elio.jpg	293
+40	8	1979	Angelo Branduardi	Cogli la prima mela	100	cogli.jpg	294
+20	14	1972	Augusto Martelli	Black Sound from White People	100	white.jpg	295
+21	14	1973	Eneide	Uomini Umili Popoli Liberi [unreleased]	100	uomini.jpg	296
+22	14	1973	Odissea	Odissea	100	odissea.jpg	297
+18	15	1972	Latte e Miele	Passio secundum Mattheum	100	passio.jpg	298
+23	14	1973	The Trip	Time of Change	100	change.jpg	299
+6	1	1968	Piero Piccioni	Bora Bora	100	bora.jpg	300
+31	10	1976	Adriano Celentano	Svalutation	100	svalutation.jpg	301
+13	3	1970	Gleemen	Gleemen	100	gleemen.jpg	302
+0	1	July 1966	Mina	Studio uno 66	100	uno66.jpg	303
+15	7	July 1971	Lucio Battisti	Amore e non amore	100	nonamore.jpg	304
+36	6	7 July 1978	Sensations' Fix	Flying Tapes	100	tapes.jpg	305
+35	6	1977	Rino Gaetano	Aida	100	aida.jpg	306
+28	9	1975	Enzo Capuano	Storia mai scritta	100	scritta.jpg	307
+26	13	1974	I Nomadi	I Nomadi interpretano Guccini	100	nomadi.jpg	308
+21	15	May 1973	Gabriella Ferri	Sempre	100	sempre.jpg	309
+32	10	February 1976	Banco del Mutuo Soccorso	Garofano rosso	100	garofano.jpg	310
+1	1	1966	I Corvi	Un ragazzo di strada	100	corvi.jpg	311
+5	0	April 1967	I Nomadi	Per quando noi non ci saremo	100	saremo.jpg	312
+29	9	1975	Stormy Six	Un biglietto del tram	100	tram.jpg	313
