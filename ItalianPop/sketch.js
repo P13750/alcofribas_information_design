@@ -56,7 +56,7 @@ function draw() {
 
   textAlign(RIGHT, BOTTOM);
   textSize(floor(height/75));
-  text("Based on RateYourMusic.com charts", width - 10, height * 0.05);
+  text("Based on RateYourMusic.com charts", width, height * 0.05);
 
   for(var anno = 1966; anno < 1980; anno++ ){
     var x = anno - 1966;
