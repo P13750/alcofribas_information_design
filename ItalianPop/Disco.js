@@ -36,7 +36,7 @@ this.accendi = function (){
 this.accendirosa = function (){
   noFill();
   stroke(255,102,178);
-  strokeWeight(3);
+  strokeWeight(2);
   rect(this.pos_x, this.pos_y, spaziatura * 0.9 * _scala, spaziatura * 0.9 * _scala);
 };
 
