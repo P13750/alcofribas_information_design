@@ -52,11 +52,11 @@ function draw() {
   stroke(255);
   textAlign(LEFT, BOTTOM);
   textSize(floor(height/32));
-  text("Masterpieces of Italian Pop: 1966 to 1979", width - 20, height * 0.05);
+  text("Masterpieces of Italian Pop: 1966 to 1979", width + 10, height * 0.05);
 
   textAlign(RIGHT, BOTTOM);
   textSize(floor(height/75));
-  text("Based on RateYourMusic.com charts", width * 0.94, height * 0.05);
+  text("Based on RateYourMusic.com charts", width - 10, height * 0.05);
 
   for(var anno = 1966; anno < 1980; anno++ ){
     var x = anno - 1966;
