@@ -52,7 +52,7 @@ function draw() {
   stroke(255);
   textAlign(LEFT, BOTTOM);
   textSize(floor(height/32));
-  text("Italian Pop", width * 0.03, height * 0.05);
+  text("Masterpieces of Italian Pop: 1966 to 1979", width * 0.03, height * 0.05);
 
   textAlign(RIGHT, BOTTOM);
   textSize(floor(height/75));
